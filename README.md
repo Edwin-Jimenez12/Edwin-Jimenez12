@@ -1,7 +1,7 @@
 # Hi, I'm Edwin Jiménez, student and software developer in training.
 
 🎓 I’m currently studying **Software Development & Management** at the Technological University of Panama.  
-💻 Passionate about learning and building with code — focusing in **Java, Python, JavaScript, React, TypeScript & Tailwind CSS**.  
+💻 Passionate about learning and building with code, focused in **Java, Python, JavaScript, React, TypeScript & Tailwind CSS**.  
 🌱 Currently improving my skills in **Fullstack development** and exploring databases & software design.  
 🤝 Open to collaborating on projects that help me grow as a developer.  
 
