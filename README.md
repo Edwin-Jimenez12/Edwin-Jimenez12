@@ -11,7 +11,7 @@
 
 - **Languages:** Java (Intermediate), Python (Basic), JavaScript (Basic)  
 - **Frontend:** React, TypeScript, Tailwind CSS, HTML, CSS  (Intermediate)
-- **Backend / Databases:** SQL Server (Basic)  
+- **Databases:** SQL Server (Basic)  
 - **Tools:** VS Code, Git/GitHub, Office 365  
 - **Other:** Basic hardware & tech support knowledge  
 
