@@ -27,10 +27,10 @@
 
 ### 📫 Connect with me  
 - 📍 Panama  
-- ✉️ [Email][ed.jimenez0012@gmail.com] 
+- ✉️ [ed.jimenez0012@gmail.com](mailto:ed.jimenez0012@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/edwin-jim%C3%A9nez12/) 
-- 💻 [GitHub](https://github.com/Edwin-Jimenez12)  
+- 💻 [GitHub](https://github.com/Edwin-Jimenez12)
 
 ---
 
-⚡ **Fun fact:** I’m former **athlete**, **National Rugby Team of Panama** and part of the **National Rugby Team of Panama**, and I love mixing sports discipline with coding challenges.  
+⚡ **Fun fact:** I’m **former National athlete**, **former National Handball Team of Panama** and part of the **National Rugby Team of Panama**, and I love mixing sports discipline with coding challenges.  
