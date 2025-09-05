@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Connect with me  
-- 📍 Panama  
+- 📍 Panama City, Panama  
 - ✉️ [ed.jimenez0012@gmail.com](mailto:ed.jimenez0012@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/edwin-jimenez12/)
 - 💻 [GitHub](https://github.com/Edwin-Jimenez12)
