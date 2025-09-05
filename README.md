@@ -1,17 +1,33 @@
-## Hi there 👋
-fasdfadfadf
-<!--
-**Edwin-Jimenez12/Edwin-Jimenez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Edwin Jiménez, student and software developer in training.
 
-Here are some ideas to get you started:
+🎓 I’m currently studying **Software Development & Management** at the Technological University of Panama.  
+💻 Passionate about learning and building with code — focusing in **Java, Python, JavaScript, React, TypeScript & Tailwind CSS**.  
+🌱 Currently improving my skills in **Fullstack development** and exploring databases & software design.  
+🤝 Open to collaborating on projects that help me grow as a developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
--->
+### 🛠️ Tech Stack  
+- **Languages:** Java (Intermediate), Python (Basic), JavaScript (Basic)  
+- **Frontend:** React, TypeScript, Tailwind CSS (Intermediate), HTML, CSS  
+- **Tools:** VS Code, Git/GitHub, Office 365  
+- **Other:** Basic hardware & tech support knowledge  
+
+---
+
+### 🌟 Soft Skills  
+- Excellent communication (even under pressure)  
+- Quick adaptability & problem-solving  
+- Team player, responsible and proactive  
+
+---
+
+### 📫 Connect with me  
+- 📍 Panama  
+- ✉️ [ed.jimenez0012@gmail.com](mailto:ed.jimenez0012@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/) (Add your link)  
+- 💻 [GitHub](https://github.com/Edwin-Jimenez12)  
+
+---
+
+⚡ **Fun fact:** I’m part of the **National Rugby Team of Panama**, and I love mixing sports discipline with coding challenges.  
