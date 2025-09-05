@@ -2,7 +2,7 @@
 
 🎓 I’m currently studying **Software Development & Management** at the Technological University of Panama.  
 💻 Passionate about learning and building with code, focused in **Java, Python, JavaScript, React, TypeScript & Tailwind CSS**.  
-🌱 Currently improving my skills in **Fullstack development** and exploring databases & software design.  
+🌱 Currently improving my skills in **Fullstack development** and exploring databases and software design.  
 🤝 Open to collaborating on projects that help me grow as a developer.  
 
 ---
