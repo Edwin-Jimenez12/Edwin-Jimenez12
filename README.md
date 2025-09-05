@@ -28,7 +28,7 @@
 ### 📫 Connect with me  
 - 📍 Panama  
 - ✉️ [ed.jimenez0012@gmail.com](mailto:ed.jimenez0012@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/edwin-jim%C3%A9nez12/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/edwin-jimenez12/)
 - 💻 [GitHub](https://github.com/Edwin-Jimenez12)
 
 ---
