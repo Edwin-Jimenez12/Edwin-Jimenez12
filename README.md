@@ -1,118 +1,88 @@
-# Hola, soy Edwin Jiménez
+# Edwin Anel Jiménez García
 
-### Frontend Developer Junior | React • Tailwind CSS • Figma • Responsive Design
+### Frontend Developer Junior
 
-🎓 Actualmente estudio la **Licenciatura en Desarrollo y Gestión de Software** en la Universidad Tecnológica de Panamá.
+Desarrollador Frontend Junior y estudiante de la Licenciatura en Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá.
 
-💻 Soy desarrollador Frontend Junior con experiencia práctica en el desarrollo de interfaces web modernas y responsivas utilizando principalmente **React, Vite, Tailwind CSS y Figma**.
+Cuento con experiencia práctica en el desarrollo de interfaces web responsivas, participando en proyectos desde la etapa de diseño UI hasta su implementación y despliegue. Mi enfoque principal está en el desarrollo Frontend utilizando React, Vite y Tailwind CSS, complementando el proceso de diseño de interfaces con Figma.
 
-🚀 He participado en proyectos comerciales trabajando desde el diseño de interfaces hasta el desarrollo, integración de funcionalidades y despliegue de aplicaciones web.
-
-🌱 Actualmente continúo fortaleciendo mis conocimientos en desarrollo Frontend, JavaScript y React, con el objetivo profesional de evolucionar progresivamente hacia el desarrollo **Full Stack**.
-
-🤝 Estoy abierto a colaborar en proyectos, oportunidades laborales y experiencias que me permitan continuar creciendo como desarrollador.
+Actualmente continúo fortaleciendo mis conocimientos en JavaScript, React y desarrollo de aplicaciones web, con el objetivo de consolidar mi perfil como desarrollador Frontend y evolucionar progresivamente hacia el desarrollo Full Stack.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Tecnologías y herramientas
 
-### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Material UI
-- Responsive Design
+**Frontend**  
+React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Material UI · Responsive Design
 
-### Herramientas
-- Git
-- GitHub
-- Figma
-- Visual Studio Code
-- Vite
-- Yarn
-- npm
+**Herramientas de desarrollo**  
+Git · GitHub · Visual Studio Code · Vite · Yarn · npm
 
-### Backend y servicios
-- Google Apps Script
-- Supabase
-- Java
-- Python
+**Diseño UI**  
+Figma
 
-### Bases de datos
-- Supabase / PostgreSQL
-- MySQL
+**Backend y servicios**  
+Google Apps Script · Supabase
+
+**Bases de datos**  
+PostgreSQL · MySQL
 
 ---
 
-# 🚀 Proyectos Destacados
+## Proyectos destacados
 
-## 💼 FillDGap
+### FillDGap
 
-**FillDGap** es una plataforma web de reclutamiento desarrollada para un cliente independiente, enfocada en conectar profesionales con oportunidades dentro de una comunidad de talento.
+Plataforma web de reclutamiento desarrollada para un cliente independiente. El proyecto está orientado al registro de profesionales mediante una interfaz responsive y un flujo de inscripción que permite gestionar información de candidatos y documentos.
 
-La plataforma cuenta con una experiencia orientada a la conversión de visitantes en registros, incluyendo un formulario funcional para la inscripción de candidatos, validación de datos y carga de currículums en formato PDF.
+Participé en el diseño de la interfaz y en el desarrollo de la aplicación, implementando formularios funcionales, validación de datos, almacenamiento de registros y carga de currículums en formato PDF.
 
-El proyecto fue diseñado en **Figma** y desarrollado utilizando **React, Vite y Tailwind CSS**, con **Supabase** para el almacenamiento de registros y documentos. La aplicación se encuentra desplegada en producción mediante **Cloudflare Pages**.
+**Tecnologías:** React · Vite · Tailwind CSS · Supabase · Figma
 
-**Tecnologías:** React • Vite • Tailwind CSS • Supabase • Figma • Cloudflare Pages
-
-🌐 [Visitar FillDGap](https://filldgap.com/)
+**Sitio web:** https://filldgap.com/
 
 ---
 
-## 🇵🇦 Panamá Viajero
+### Panamá Viajero
 
-**Panamá Viajero** es una plataforma turística diseñada para facilitar el descubrimiento de destinos y lugares de interés en Panamá.
+Plataforma web turística desarrollada durante mi experiencia en Davis Marketing, orientada a promover destinos turísticos de Panamá y facilitar la conexión entre visitantes, servicios y alojamientos disponibles en diferentes áreas del país.
 
-El proyecto busca ofrecer a turistas nacionales e internacionales información sobre diferentes destinos del país y facilitar la conexión entre los visitantes y servicios disponibles en cada área, incluyendo opciones relacionadas con alojamiento y actividades turísticas.
+Mi participación comprende el diseño de interfaces en Figma, desarrollo de páginas responsivas, creación de componentes reutilizables, mantenimiento e implementación de funcionalidades para la plataforma.
 
-Mi participación en el proyecto incluye el **diseño de interfaces en Figma**, desarrollo de páginas responsivas, creación de componentes reutilizables e implementación de funcionalidades utilizando tecnologías Frontend modernas.
+**Tecnologías:** React · Vite · Tailwind CSS · Google Apps Script · Figma
 
-**Tecnologías:** React • Vite • Tailwind CSS • Figma • Google Apps Script
-
-> 🚧 Proyecto actualmente en desarrollo.
+**Estado:** Proyecto en desarrollo.
 
 ---
 
-## 🎯 Actualmente estoy aprendiendo
+## Formación académica
 
-Actualmente estoy enfocado en fortalecer mis conocimientos en:
+**Universidad Tecnológica de Panamá**  
+Licenciatura en Desarrollo y Gestión de Software  
+2023 – Presente
+
+---
+
+## Enfoque profesional
+
+Actualmente estoy enfocado en continuar desarrollando competencias en:
 
 - JavaScript moderno
 - React
-- Arquitectura de componentes
-- Consumo e integración de APIs
+- Desarrollo de interfaces web
+- Arquitectura basada en componentes
+- Integración y consumo de APIs
 - Git y GitHub
-- Desarrollo de aplicaciones Frontend escalables
+- Responsive Design
+- Buenas prácticas de desarrollo Frontend
 
-Mi objetivo es consolidar una base sólida como **Frontend Developer** y continuar mi crecimiento profesional hacia un perfil **Full Stack Developer**.
-
----
-
-## 🌟 Habilidades Personales
-
-- Comunicación efectiva
-- Adaptabilidad y aprendizaje rápido
-- Resolución de problemas
-- Trabajo en equipo
-- Responsabilidad
-- Proactividad
+Mi objetivo profesional es continuar adquiriendo experiencia como **Frontend Developer**, participando en proyectos reales y fortaleciendo progresivamente mis conocimientos para evolucionar hacia un perfil **Full Stack Developer**.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-📍 Panamá, Panamá  
-✉️ [ed.jimenez0012@gmail.com](mailto:ed.jimenez0012@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/edwin-jimenez12/)  
-💻 [GitHub](https://github.com/Edwin-Jimenez12)
-
----
-
-## 🏉 Un poco más sobre mí
-
-Además de mi interés por el desarrollo de software, el deporte ha sido una parte importante de mi formación personal.
-
-He participado en disciplinas deportivas a nivel competitivo y representativo, una experiencia que me ha ayudado a desarrollar valores como la **disciplina, constancia, trabajo en equipo y capacidad de adaptación**, principios que también aplico durante mi crecimiento como desarrollador.
+**Ubicación:** Ciudad de Panamá, Panamá  
+**Correo:** ed.jimenez0012@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/edwin-jimenez12/  
+**GitHub:** https://github.com/Edwin-Jimenez12
