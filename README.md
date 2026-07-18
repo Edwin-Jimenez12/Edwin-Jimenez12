@@ -1,4 +1,4 @@
-# 👋 Hola, soy Edwin Jiménez
+# Hola, soy Edwin Jiménez
 
 ### Frontend Developer Junior | React • Tailwind CSS • Figma • Responsive Design
 
