@@ -1,88 +1,174 @@
 # Edwin Anel Jiménez García
 
-### Frontend Developer Junior
+### Frontend Developer Junior | React · JavaScript · Tailwind CSS
 
-Desarrollador Frontend Junior y estudiante de la Licenciatura en Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá.
+Desarrollador Frontend Junior y estudiante de la **Licenciatura en Desarrollo y Gestión de Software en la Universidad Tecnológica de Panamá**, con experiencia práctica en el diseño, desarrollo, integración y despliegue de aplicaciones web.
 
-Cuento con experiencia práctica en el desarrollo de interfaces web responsivas, participando en proyectos desde la etapa de diseño UI hasta su implementación y despliegue. Mi enfoque principal está en el desarrollo Frontend utilizando React, Vite y Tailwind CSS, complementando el proceso de diseño de interfaces con Figma.
+He participado en proyectos comerciales y desarrollado soluciones para clientes independientes, trabajando desde el diseño de interfaces en Figma hasta su implementación con React, Vite y Tailwind CSS.
 
-Actualmente continúo fortaleciendo mis conocimientos en JavaScript, React y desarrollo de aplicaciones web, con el objetivo de consolidar mi perfil como desarrollador Frontend y evolucionar progresivamente hacia el desarrollo Full Stack.
+También cuento con experiencia integrando **Supabase, PostgreSQL, almacenamiento de archivos, formularios y servicios externos**, así como publicando aplicaciones web en Cloudflare Pages.
+
+Mi enfoque es desarrollar aplicaciones funcionales, responsivas, intuitivas y mantenibles, mientras continúo ampliando mis conocimientos hacia el desarrollo Full Stack.
 
 ---
 
 ## Tecnologías y herramientas
 
-**Frontend**  
+**Frontend**
+
 React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Material UI · Responsive Design
 
-**Herramientas de desarrollo**  
-Git · GitHub · Visual Studio Code · Vite · Yarn · npm
+**Diseño UI/UX**
 
-**Diseño UI**  
-Figma
+Figma · Prototipado de interfaces · Diseño basado en componentes
 
-**Backend y servicios**  
-Google Apps Script · Supabase
+**Backend y servicios**
 
-**Bases de datos**  
+Supabase · Google Apps Script
+
+**Bases de datos**
+
 PostgreSQL · MySQL
 
----
+**Herramientas y despliegue**
 
-## Proyectos destacados
-
-### FillDGap
-
-Plataforma web de reclutamiento desarrollada para un cliente independiente. El proyecto está orientado al registro de profesionales mediante una interfaz responsive y un flujo de inscripción que permite gestionar información de candidatos y documentos.
-
-Participé en el diseño de la interfaz y en el desarrollo de la aplicación, implementando formularios funcionales, validación de datos, almacenamiento de registros y carga de currículums en formato PDF.
-
-**Tecnologías:** React · Vite · Tailwind CSS · Supabase · Figma
-
-**Sitio web:** https://filldgap.com/
+Git · GitHub · Vite · Visual Studio Code · npm · Yarn · Cloudflare Pages · Cloudflare DNS
 
 ---
+
+## Experiencia profesional
+
+### DAVIS MARKETING
+
+**Asistente de Desarrollo de Software | Abril 2026 – Actualidad**
+
+Participo en el diseño, desarrollo y mantenimiento de aplicaciones web comerciales, implementando interfaces responsivas, componentes reutilizables e integraciones con servicios externos.
+
+### Guía Panamá Viajero
+
+**Estado:** Publicado y funcional
+
+Sitio web turístico dinámico que permite presentar y administrar información relacionada con destinos y servicios turísticos de Panamá.
+
+**Logros destacados:**
+- Desarrollé y puse en funcionamiento el sitio web, integrándolo con Supabase para gestionar información dinámica.
+- Implementé la conexión con un panel administrativo, permitiendo actualizar el contenido publicado sin modificar directamente el código.
+- Implementé un formulario de contacto con notificaciones por correo electrónico para facilitar la comunicación con los usuarios.
+- Contribuí a centralizar la gestión de contenido y reducir la necesidad de realizar modificaciones manuales en el sitio.
+
+**Sitio web:** https://panama-viajero.pages.dev
 
 ### Panamá Viajero
 
-Plataforma web turística desarrollada durante mi experiencia en Davis Marketing, orientada a promover destinos turísticos de Panamá y facilitar la conexión entre visitantes, servicios y alojamientos disponibles en diferentes áreas del país.
+**Estado:** En desarrollo
 
-Mi participación comprende el diseño de interfaces en Figma, desarrollo de páginas responsivas, creación de componentes reutilizables, mantenimiento e implementación de funcionalidades para la plataforma.
+Plataforma turística que permitirá a los usuarios explorar destinos y realizar reservas de hospedajes, restaurantes y otros servicios turísticos.
 
-**Tecnologías:** React · Vite · Tailwind CSS · Google Apps Script · Figma
+**Aportes al proyecto:**
+- Participo en el diseño y desarrollo de interfaces web responsivas.
+- Contribuyo a la construcción de componentes reutilizables para facilitar el mantenimiento de la plataforma.
+- Participo en la implementación y mejora de las funcionalidades del sitio web.
 
-**Estado:** Proyecto en desarrollo.
+**Tecnologías:** React · Vite · Tailwind CSS · Figma
+
+---
+
+## Proyectos freelance
+
+### NEX DIGITAL
+
+**Estado:** Publicado
+
+Sitio web comercial dedicado a presentar servicios de desarrollo web y soluciones digitales.
+
+**Logros destacados:**
+- Desarrollé y publiqué mi propio sitio web comercial para presentar servicios de desarrollo web.
+- Organicé los servicios en diferentes planes y precios, facilitando que los visitantes identifiquen opciones según sus necesidades.
+- Implementé una integración con WhatsApp que permite iniciar consultas y solicitudes de cotización directamente desde el sitio.
+- Desarrollé una interfaz responsiva para facilitar la navegación desde computadoras y dispositivos móviles.
+
+**Sitio web:** https://nexdigital.online
+
+### Fill D Gap
+
+**Estado:** Publicado
+
+Plataforma web desarrollada para un cliente independiente, orientada al registro de profesionales dentro de una comunidad selecta.
+
+**Logros destacados:**
+- Desarrollé y publiqué una plataforma funcional para el registro de profesionales.
+- Implementé un formulario con validación de datos y almacenamiento de registros mediante Supabase y PostgreSQL.
+- Integré la carga y el almacenamiento de currículums en formato PDF utilizando Supabase Storage.
+- Configuré el despliegue de la aplicación en Cloudflare Pages, incluyendo dominio personalizado y HTTPS.
+- Implementé un flujo de inscripción que centraliza la recopilación de información de los candidatos.
+
+**Tecnologías:** React · Vite · Tailwind CSS · Supabase · PostgreSQL · Cloudflare Pages · GitHub
+
+**Sitio web:** https://filldgap.com/
+
+### AthlonX
+
+**Estado:** En desarrollo
+
+Plataforma web para la organización y gestión de torneos deportivos de rugby, fútbol y baloncesto, orientada a organizadores, directivos, entrenadores, atletas y personal de apoyo.
+
+**Aportes al proyecto:**
+- Participo en el desarrollo de una plataforma que centraliza la gestión de competiciones deportivas.
+- Contribuyo al diseño y desarrollo de interfaces para facilitar la administración y consulta de información de los torneos.
+- Trabajo en la construcción de una experiencia de usuario intuitiva para los diferentes perfiles de la plataforma.
+
+**Funcionalidades del sistema:**
+- Administración de torneos, equipos y divisiones.
+- Organización de calendarios y generación de fixtures.
+- Gestión de partidos y resultados deportivos.
+- Acceso centralizado a la información de las competiciones.
+
+**Sitio web:** https://athlonx.world
 
 ---
 
 ## Formación académica
 
-**Universidad Tecnológica de Panamá**  
-Licenciatura en Desarrollo y Gestión de Software  
-2023 – Presente
+**Universidad Tecnológica de Panamá**
+
+Licenciatura en Desarrollo y Gestión de Software
+
+**2023 – Actualidad**
 
 ---
 
 ## Enfoque profesional
 
-Actualmente estoy enfocado en continuar desarrollando competencias en:
+Mi experiencia se centra en el desarrollo Frontend, desde la creación de interfaces hasta la integración con bases de datos y servicios externos.
 
-- JavaScript moderno
-- React
-- Desarrollo de interfaces web
-- Arquitectura basada en componentes
-- Integración y consumo de APIs
-- Git y GitHub
-- Responsive Design
-- Buenas prácticas de desarrollo Frontend
+Mis principales áreas de interés y desarrollo profesional incluyen:
 
-Mi objetivo profesional es continuar adquiriendo experiencia como **Frontend Developer**, participando en proyectos reales y fortaleciendo progresivamente mis conocimientos para evolucionar hacia un perfil **Full Stack Developer**.
+- Desarrollo de aplicaciones web con React.
+- Arquitectura y reutilización de componentes.
+- Integración y consumo de APIs.
+- Integración de bases de datos y servicios externos.
+- Interfaces responsivas y experiencia de usuario.
+- Mantenimiento y mejora de aplicaciones.
+- Control de versiones con Git y GitHub.
+- Despliegue de proyectos web.
+- Desarrollo Full Stack.
+
+---
+
+## Idiomas
+
+**Español:** Nativo
+
+**Inglés:** Intermedio
 
 ---
 
 ## Contacto
 
-**Ubicación:** Ciudad de Panamá, Panamá  
-**Correo:** ed.jimenez0012@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/edwin-jimenez12/  
+**Ubicación:** Ciudad de Panamá, Panamá
+
+**Correo electrónico:** ed.jimenez0012@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/edwin-jimenez12/
+
 **GitHub:** https://github.com/Edwin-Jimenez12
